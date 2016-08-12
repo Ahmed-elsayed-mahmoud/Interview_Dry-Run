@@ -1,4 +1,4 @@
-# Interview Dry-Run 
+# Interview Dry-Run
 
 ## Question 1
 #### What is the most influential book or blog post you’ve read regarding web development?
@@ -103,6 +103,18 @@ The result of each die roll is assigned to a variable. The function returns the 
 ## Question 6
 #### If you were to start your full-stack developer position today, what would be your goals a year from now? 
 
-##### Full Stack Engineer
-I would like to increase and share my knowledge of web app development. I'd also like to be an influential and integral part of my team. 
-I'd like to spearhead the implementation of new technologies since collaboration and assisting others are passions of mine.
+One year from now, I will have finished another two Nanodegrees, which will lead me to being a stronger software developer with a better understanding of the entire development process. I would like to be in a leadership role that puts me in the position to be a mentor to other people aspiring to take part in the software development process. I will use all of the new skills that I have learned and best practices to create exceptional products and drive business decisions for the company that I work for.
+
+It is apparent that the job I am applying for will help me to reach my goals. The company exemplifies all of the things that I am most passionate about and their mission is exactly along the lines of my own. After a year of working at Udacity, I will still be learning from my colleagues and applying all of the skills I gain to helping others to learn. Education is so incredibly important to me and I would really love to help other people to grow their skillsets, as Udacity has helped me to grow mine. I feel that working for Udacity would give me the tremendous opportunity to be a leader and a mentor to others. I look forward to having the opportunity to create tools that will help Udacity in their mission of democratizing world-class education.
+
+In summary, I will be continuing my professional and personal growth, using my newfound skills and applying the incredible passion that I have for all of the work that I do in order to help other people to learn and grow.
+
+Udacity is one place that I would love to work. I think that their vision is incredible and I am so excited and passionate about their work. [Here is a link to a job posting](https://jobs.lever.co/udacity/df7fbc8c-c7c9-4cb3-b1de-7d169521da15) that I may consider.
+
+Here are the responsibilities laid out in the posting.
+
+RESPONSIBILITIES
+
+Building out a classroom framework that lets our students switch between hundreds of videos, quizzes, and programming environments without ever reloading the page Rolling out a new style framework for our whole site Versatile ways to grade student submissions, including everything from simple answers to large, multi-file projects and exams that adjust their difficulty to students’ performance Find ways to incorporate the best new technologies into our stack, and the bulk of the work we do revolves around building new features (rather than iterating on old ones) WHAT WE’RE LOOKING FOR
+
+Experience with object-oriented design Knowledge, or willingness and ability to become fluent in Python, Functional JavaScript, and client-side MVC Opinions about the right way to do things that you aren’t afraid to defend User-centric mentality/passionate about building products with great user experience
